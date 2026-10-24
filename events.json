@@ -1,0 +1,33 @@
+{
+ "updated": "2026-10-24T14:15:00-05:00",
+ "calendar": "a30f0a807714d556dff0be4d75b546657073c72a6671f4408c680a4ec12f8db7@group.calendar.google.com",
+ "events": [
+  {
+   "title": "SWAP Con Halloween",
+   "start": "2026-10-31T11:00:00-05:00",
+   "end": "2026-10-31T17:00:00-05:00",
+   "location": "Rollertown Beerworks, Frisco, TX",
+   "description": "Buy, sell and swap with 50+ vendors. Find Gerrit's Backyard Arcade with modded consoles, games and collectibles.",
+   "image": "swapcon",
+   "url": "https://linktr.ee/theswapcon"
+  },
+  {
+   "title": "SWAP Con Dallas",
+   "start": "2026-11-14T12:00:00-06:00",
+   "end": "2026-11-14T18:00:00-06:00",
+   "location": "AT&T Discovery District, Dallas, TX",
+   "description": "Downtown Dallas edition of SWAP Con. Free admission, giveaways and live mod demos.",
+   "image": "swapcon",
+   "url": "https://linktr.ee/theswapcon"
+  },
+  {
+   "title": "SWAP Con Arlington",
+   "start": "2026-12-05T11:00:00-06:00",
+   "end": "2026-12-05T18:00:00-06:00",
+   "location": "Esports Stadium Arlington, Arlington, TX",
+   "description": "Retro gaming meets resale at the Esports Stadium. Holiday gifts for gamers.",
+   "image": "swapcon",
+   "url": "https://linktr.ee/theswapcon"
+  }
+ ]
+}
