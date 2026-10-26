@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T14:15:00-05:00",
+ "updated": "2026-10-26T08:58:00-05:00",
  "calendar": "a30f0a807714d556dff0be4d75b546657073c72a6671f4408c680a4ec12f8db7@group.calendar.google.com",
  "events": [
   {
@@ -16,7 +16,7 @@
    "start": "2026-11-14T12:00:00-06:00",
    "end": "2026-11-14T18:00:00-06:00",
    "location": "AT&T Discovery District, Dallas, TX",
-   "description": "Downtown Dallas edition of SWAP Con. Free admission, giveaways and live mod demos.",
+   "description": "Downtown Dallas edition of SWAP Con. Free admission, giveaways and live mod demos from Gerrit's Backyard Arcade.",
    "image": "swapcon",
    "url": "https://linktr.ee/theswapcon"
   },
@@ -25,7 +25,7 @@
    "start": "2026-12-05T11:00:00-06:00",
    "end": "2026-12-05T18:00:00-06:00",
    "location": "Esports Stadium Arlington, Arlington, TX",
-   "description": "Retro gaming meets resale at the Esports Stadium. Holiday gifts for gamers.",
+   "description": "Retro gaming meets resale at the Esports Stadium. Holiday gifts for gamers from Gerrit's Backyard Arcade.",
    "image": "swapcon",
    "url": "https://linktr.ee/theswapcon"
   }

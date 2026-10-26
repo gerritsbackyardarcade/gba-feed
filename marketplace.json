@@ -1,13 +1,216 @@
 {
- "updated": "2026-10-24T14:15:00-05:00",
+ "updated": "2026-10-26T08:58:00-05:00",
  "source": "https://www.facebook.com/marketplace/profile/1073356418/",
  "items": [
   {
-   "id": "1601626508013007",
-   "title": "Lost Odyssey (Xbox 360, CIB)",
-   "price": "$35",
-   "img": "img/1601626508013007.webp",
-   "url": "https://www.facebook.com/marketplace/item/1601626508013007/"
+   "id": "4063926110576427",
+   "title": "Sonic x DC Knuckles as Superman",
+   "price": "$24",
+   "img": "img/4063926110576427.webp",
+   "url": "https://www.facebook.com/marketplace/item/4063926110576427/"
+  },
+  {
+   "id": "2158605854785284",
+   "title": "Sonic x DC Silver as Green Lantern",
+   "price": "$27",
+   "img": "img/2158605854785284.webp",
+   "url": "https://www.facebook.com/marketplace/item/2158605854785284/"
+  },
+  {
+   "id": "974781001754944",
+   "title": "Sonic x DC Shadow as Batman",
+   "price": "$26",
+   "img": "img/974781001754944.webp",
+   "url": "https://www.facebook.com/marketplace/item/974781001754944/"
+  },
+  {
+   "id": "1643821800582071",
+   "title": "Sonic Prime Gnarly Knuckles",
+   "price": "$24",
+   "img": "img/1643821800582071.webp",
+   "url": "https://www.facebook.com/marketplace/item/1643821800582071/"
+  },
+  {
+   "id": "4357458761137833",
+   "title": "Sonic x DC Cyborg & Tails Multipack",
+   "price": "$26",
+   "img": "img/4357458761137833.webp",
+   "url": "https://www.facebook.com/marketplace/item/4357458761137833/"
+  },
+  {
+   "id": "1428287859488494",
+   "title": "Sonic x DC Lex Luthor & Dr. Eggman Set",
+   "price": "$30",
+   "img": "img/1428287859488494.webp",
+   "url": "https://www.facebook.com/marketplace/item/1428287859488494/"
+  },
+  {
+   "id": "1651013640145945",
+   "title": "Sonic x DC Tails as Cyborg",
+   "price": "$25",
+   "img": "img/1651013640145945.webp",
+   "url": "https://www.facebook.com/marketplace/item/1651013640145945/"
+  },
+  {
+   "id": "1461748635868126",
+   "title": "Sonic x DC Superman & Knuckles Set",
+   "price": "$26",
+   "img": "img/1461748635868126.webp",
+   "url": "https://www.facebook.com/marketplace/item/1461748635868126/"
+  },
+  {
+   "id": "2251430508923013",
+   "title": "Coldplay A Rush of Blood to the Head CD",
+   "price": "$12",
+   "img": "img/2251430508923013.webp",
+   "url": "https://www.facebook.com/marketplace/item/2251430508923013/"
+  },
+  {
+   "id": "2494935100917082",
+   "title": "R.E.M. Murmur CD",
+   "price": "$12",
+   "img": "img/2494935100917082.webp",
+   "url": "https://www.facebook.com/marketplace/item/2494935100917082/"
+  },
+  {
+   "id": "942560828926683",
+   "title": "The Velvet Underground & Nico CD",
+   "price": "$15",
+   "img": "img/942560828926683.webp",
+   "url": "https://www.facebook.com/marketplace/item/942560828926683/"
+  },
+  {
+   "id": "1108228565000650",
+   "title": "Star Trek TNG Hamilton Plate Collection, Set of 8",
+   "price": "$145",
+   "img": "img/1108228565000650.webp",
+   "url": "https://www.facebook.com/marketplace/item/1108228565000650/"
+  },
+  {
+   "id": "1409870540678977",
+   "title": "Star Trek TNG Ensign Wesley Crusher Hamilton Plate",
+   "price": "$22",
+   "img": "img/1409870540678977.webp",
+   "url": "https://www.facebook.com/marketplace/item/1409870540678977/"
+  },
+  {
+   "id": "3598217857012118",
+   "title": "Star Trek TNG Commander Riker Hamilton Plate",
+   "price": "$22",
+   "img": "img/3598217857012118.webp",
+   "url": "https://www.facebook.com/marketplace/item/3598217857012118/"
+  },
+  {
+   "id": "2896046914105753",
+   "title": "Star Trek TNG Dr. Beverly Crusher Hamilton Plate",
+   "price": "$22",
+   "img": "img/2896046914105753.webp",
+   "url": "https://www.facebook.com/marketplace/item/2896046914105753/"
+  },
+  {
+   "id": "1456504049692220",
+   "title": "Star Trek TNG Geordi La Forge Hamilton Plate",
+   "price": "$22",
+   "img": "img/1456504049692220.webp",
+   "url": "https://www.facebook.com/marketplace/item/1456504049692220/"
+  },
+  {
+   "id": "1796811288331120",
+   "title": "Star Trek TNG Lt. Commander Data Hamilton Plate",
+   "price": "$22",
+   "img": "img/1796811288331120.webp",
+   "url": "https://www.facebook.com/marketplace/item/1796811288331120/"
+  },
+  {
+   "id": "1616224623580856",
+   "title": "Star Trek TNG Lieutenant Worf Hamilton Plate",
+   "price": "$22",
+   "img": "img/1616224623580856.webp",
+   "url": "https://www.facebook.com/marketplace/item/1616224623580856/"
+  },
+  {
+   "id": "1452017086826900",
+   "title": "Star Trek TNG Counselor Deanna Troi Hamilton Plate",
+   "price": "$22",
+   "img": "img/1452017086826900.webp",
+   "url": "https://www.facebook.com/marketplace/item/1452017086826900/"
+  },
+  {
+   "id": "1756021015622530",
+   "title": "15 Martial Arts Movies DVD Collection",
+   "price": "$10",
+   "img": "img/1756021015622530.webp",
+   "url": "https://www.facebook.com/marketplace/item/1756021015622530/"
+  },
+  {
+   "id": "989969980796206",
+   "title": "Medal of Honor Rising Sun (GameCube, Player's Choice)",
+   "price": "$16",
+   "img": "img/989969980796206.webp",
+   "url": "https://www.facebook.com/marketplace/item/989969980796206/"
+  },
+  {
+   "id": "1464251188894614",
+   "title": "Medal of Honor Frontline (GameCube)",
+   "price": "$18",
+   "img": "img/1464251188894614.webp",
+   "url": "https://www.facebook.com/marketplace/item/1464251188894614/"
+  },
+  {
+   "id": "4680880415528631",
+   "title": "Splinter Cell: Pandora Tomorrow (GameCube)",
+   "price": "$22",
+   "img": "img/4680880415528631.webp",
+   "url": "https://www.facebook.com/marketplace/item/4680880415528631/"
+  },
+  {
+   "id": "1626304045598108",
+   "title": "Future Tactics: The Uprising (GameCube)",
+   "price": "$22",
+   "img": "img/1626304045598108.webp",
+   "url": "https://www.facebook.com/marketplace/item/1626304045598108/"
+  },
+  {
+   "id": "1692067448557871",
+   "title": "Universal Monsters The Wolfman Figure (2006)",
+   "price": "$55",
+   "img": "img/1692067448557871.webp",
+   "url": "https://www.facebook.com/marketplace/item/1692067448557871/"
+  },
+  {
+   "id": "1110323075278692",
+   "title": "Carrie Imprint 4K UHD + Blu-ray Box Set",
+   "price": "$60",
+   "img": "img/1110323075278692.webp",
+   "url": "https://www.facebook.com/marketplace/item/1110323075278692/"
+  },
+  {
+   "id": "1077889391718461",
+   "title": "LEGO Sonic Knuckles & Master Emerald Shrine 76998",
+   "price": "$50",
+   "img": "img/1077889391718461.webp",
+   "url": "https://www.facebook.com/marketplace/item/1077889391718461/"
+  },
+  {
+   "id": "1388955000061440",
+   "title": "Pink Floyd A Saucerful of Secrets Vinyl LP",
+   "price": "$60",
+   "img": "img/1388955000061440.webp",
+   "url": "https://www.facebook.com/marketplace/item/1388955000061440/"
+  },
+  {
+   "id": "2370011950402252",
+   "title": "Nine Inch Nails The Fragile 3-LP Vinyl",
+   "price": "$80",
+   "img": "img/2370011950402252.webp",
+   "url": "https://www.facebook.com/marketplace/item/2370011950402252/"
+  },
+  {
+   "id": "1374316328194834",
+   "title": "Just Dance 3 Target Edition (Wii, CIB)",
+   "price": "$20",
+   "img": "img/1374316328194834.webp",
+   "url": "https://www.facebook.com/marketplace/item/1374316328194834/"
   },
   {
    "id": "893484380294718",
@@ -17,18 +220,18 @@
    "url": "https://www.facebook.com/marketplace/item/893484380294718/"
   },
   {
+   "id": "1601626508013007",
+   "title": "Lost Odyssey (Xbox 360, CIB)",
+   "price": "$35",
+   "img": "img/1601626508013007.webp",
+   "url": "https://www.facebook.com/marketplace/item/1601626508013007/"
+  },
+  {
    "id": "1629413985419657",
    "title": "Super Donkey Kong GB (Game Boy)",
    "price": "$40",
    "img": "img/1629413985419657.webp",
    "url": "https://www.facebook.com/marketplace/item/1629413985419657/"
-  },
-  {
-   "id": "1374316328194834",
-   "title": "Just Dance 3 Target Edition (Wii, CIB)",
-   "price": "$20",
-   "img": "img/1374316328194834.webp",
-   "url": "https://www.facebook.com/marketplace/item/1374316328194834/"
   },
   {
    "id": "1596272705628328",
@@ -45,109 +248,11 @@
    "url": "https://www.facebook.com/marketplace/item/1698580177880717/"
   },
   {
-   "id": "1692067448557871",
-   "title": "Universal Monsters The Wolfman Figure (2006)",
-   "price": "$55",
-   "img": "img/1692067448557871.webp",
-   "url": "https://www.facebook.com/marketplace/item/1692067448557871/"
-  },
-  {
-   "id": "1077889391718461",
-   "title": "LEGO Sonic Knuckles & Master Emerald Shrine 76998",
-   "price": "$50",
-   "img": "img/1077889391718461.webp",
-   "url": "https://www.facebook.com/marketplace/item/1077889391718461/"
-  },
-  {
-   "id": "2370011950402252",
-   "title": "Nine Inch Nails The Fragile 3-LP Vinyl",
-   "price": "$80",
-   "img": "img/2370011950402252.webp",
-   "url": "https://www.facebook.com/marketplace/item/2370011950402252/"
-  },
-  {
-   "id": "1388955000061440",
-   "title": "Pink Floyd A Saucerful of Secrets Vinyl LP",
-   "price": "$60",
-   "img": "img/1388955000061440.webp",
-   "url": "https://www.facebook.com/marketplace/item/1388955000061440/"
-  },
-  {
-   "id": "1110323075278692",
-   "title": "Carrie Imprint 4K UHD + Blu-ray Box Set",
-   "price": "$60",
-   "img": "img/1110323075278692.webp",
-   "url": "https://www.facebook.com/marketplace/item/1110323075278692/"
-  },
-  {
    "id": "1457086556180987",
    "title": "The Secret of NIMH VHS (MGM/UA)",
    "price": "$20",
    "img": "img/1457086556180987.webp",
    "url": "https://www.facebook.com/marketplace/item/1457086556180987/"
-  },
-  {
-   "id": "1108228565000650",
-   "title": "Star Trek TNG Hamilton Plate Collection, Set of 8",
-   "price": "$145",
-   "img": "img/1108228565000650.webp",
-   "url": "https://www.facebook.com/marketplace/item/1108228565000650/"
-  },
-  {
-   "id": "1428287859488494",
-   "title": "Sonic x DC Lex Luthor & Dr. Eggman Set",
-   "price": "$30",
-   "img": "img/1428287859488494.webp",
-   "url": "https://www.facebook.com/marketplace/item/1428287859488494/"
-  },
-  {
-   "id": "974781001754944",
-   "title": "Sonic x DC Shadow as Batman",
-   "price": "$26",
-   "img": "img/974781001754944.webp",
-   "url": "https://www.facebook.com/marketplace/item/974781001754944/"
-  },
-  {
-   "id": "2158605854785284",
-   "title": "Sonic x DC Silver as Green Lantern",
-   "price": "$27",
-   "img": "img/2158605854785284.webp",
-   "url": "https://www.facebook.com/marketplace/item/2158605854785284/"
-  },
-  {
-   "id": "1461748635868126",
-   "title": "Sonic x DC Superman & Knuckles Set",
-   "price": "$26",
-   "img": "img/1461748635868126.webp",
-   "url": "https://www.facebook.com/marketplace/item/1461748635868126/"
-  },
-  {
-   "id": "4063926110576427",
-   "title": "Sonic x DC Knuckles as Superman",
-   "price": "$24",
-   "img": "img/4063926110576427.webp",
-   "url": "https://www.facebook.com/marketplace/item/4063926110576427/"
-  },
-  {
-   "id": "4357458761137833",
-   "title": "Sonic x DC Cyborg & Tails Multipack",
-   "price": "$26",
-   "img": "img/4357458761137833.webp",
-   "url": "https://www.facebook.com/marketplace/item/4357458761137833/"
-  },
-  {
-   "id": "1651013640145945",
-   "title": "Sonic x DC Tails as Cyborg",
-   "price": "$25",
-   "img": "img/1651013640145945.webp",
-   "url": "https://www.facebook.com/marketplace/item/1651013640145945/"
-  },
-  {
-   "id": "1643821800582071",
-   "title": "Sonic Prime Gnarly Knuckles",
-   "price": "$24",
-   "img": "img/1643821800582071.webp",
-   "url": "https://www.facebook.com/marketplace/item/1643821800582071/"
   }
  ]
 }
