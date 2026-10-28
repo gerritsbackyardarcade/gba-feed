@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T08:58:00-05:00",
+ "updated": "2026-10-28T08:45:00-05:00",
  "calendar": "a30f0a807714d556dff0be4d75b546657073c72a6671f4408c680a4ec12f8db7@group.calendar.google.com",
  "events": [
   {
@@ -19,6 +19,30 @@
    "description": "Downtown Dallas edition of SWAP Con. Free admission, giveaways and live mod demos from Gerrit's Backyard Arcade.",
    "image": "swapcon",
    "url": "https://linktr.ee/theswapcon"
+  },
+  {
+   "title": "Anime Showdown Dallas (Day 1)",
+   "start": "2026-11-27T17:00:00-06:00",
+   "end": "2026-11-27T20:00:00-06:00",
+   "location": "NTX Arena, 2401 S Stemmons Fwy, Lewisville, TX 75067",
+   "description": "Find Gerrit's Backyard Arcade at our vendor booth at Anime Showdown Dallas. Retro games, consoles, and collectibles. Show hours: Fri 5-8pm, Sat 10am-7pm, Sun 11am-5pm.",
+   "url": "https://www.animeshowdown.com"
+  },
+  {
+   "title": "Anime Showdown Dallas (Day 2)",
+   "start": "2026-11-28T10:00:00-06:00",
+   "end": "2026-11-28T19:00:00-06:00",
+   "location": "NTX Arena, 2401 S Stemmons Fwy, Lewisville, TX 75067",
+   "description": "Find Gerrit's Backyard Arcade at our vendor booth at Anime Showdown Dallas. Retro games, consoles, and collectibles. Show hours: Fri 5-8pm, Sat 10am-7pm, Sun 11am-5pm.",
+   "url": "https://www.animeshowdown.com"
+  },
+  {
+   "title": "Anime Showdown Dallas (Day 3)",
+   "start": "2026-11-29T11:00:00-06:00",
+   "end": "2026-11-29T17:00:00-06:00",
+   "location": "NTX Arena, 2401 S Stemmons Fwy, Lewisville, TX 75067",
+   "description": "Find Gerrit's Backyard Arcade at our vendor booth at Anime Showdown Dallas. Retro games, consoles, and collectibles. Show hours: Fri 5-8pm, Sat 10am-7pm, Sun 11am-5pm.",
+   "url": "https://www.animeshowdown.com"
   },
   {
    "title": "SWAP Con Arlington",
