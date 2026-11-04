@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T09:09:54-06:00",
+ "updated": "2026-11-04T08:50:49-06:00",
  "source": "https://www.facebook.com/marketplace/profile/1073356418/",
  "items": [
   {
@@ -150,13 +150,6 @@
    "url": "https://www.facebook.com/marketplace/item/989969980796206/"
   },
   {
-   "id": "1464251188894614",
-   "title": "Medal of Honor Frontline (GameCube)",
-   "price": "$18",
-   "img": "img/1464251188894614.webp",
-   "url": "https://www.facebook.com/marketplace/item/1464251188894614/"
-  },
-  {
    "id": "4680880415528631",
    "title": "Splinter Cell: Pandora Tomorrow (GameCube)",
    "price": "$22",
@@ -169,90 +162,6 @@
    "price": "$22",
    "img": "img/1626304045598108.webp",
    "url": "https://www.facebook.com/marketplace/item/1626304045598108/"
-  },
-  {
-   "id": "1692067448557871",
-   "title": "Universal Monsters The Wolfman Figure (2006)",
-   "price": "$55",
-   "img": "img/1692067448557871.webp",
-   "url": "https://www.facebook.com/marketplace/item/1692067448557871/"
-  },
-  {
-   "id": "1110323075278692",
-   "title": "Carrie Imprint 4K UHD + Blu-ray Box Set",
-   "price": "$60",
-   "img": "img/1110323075278692.webp",
-   "url": "https://www.facebook.com/marketplace/item/1110323075278692/"
-  },
-  {
-   "id": "1077889391718461",
-   "title": "LEGO Sonic Knuckles & Master Emerald Shrine 76998",
-   "price": "$50",
-   "img": "img/1077889391718461.webp",
-   "url": "https://www.facebook.com/marketplace/item/1077889391718461/"
-  },
-  {
-   "id": "1388955000061440",
-   "title": "Pink Floyd A Saucerful of Secrets Vinyl LP",
-   "price": "$60",
-   "img": "img/1388955000061440.webp",
-   "url": "https://www.facebook.com/marketplace/item/1388955000061440/"
-  },
-  {
-   "id": "2370011950402252",
-   "title": "Nine Inch Nails The Fragile 3-LP Vinyl",
-   "price": "$80",
-   "img": "img/2370011950402252.webp",
-   "url": "https://www.facebook.com/marketplace/item/2370011950402252/"
-  },
-  {
-   "id": "1374316328194834",
-   "title": "Just Dance 3 Target Edition (Wii, CIB)",
-   "price": "$20",
-   "img": "img/1374316328194834.webp",
-   "url": "https://www.facebook.com/marketplace/item/1374316328194834/"
-  },
-  {
-   "id": "893484380294718",
-   "title": "Beautiful Katamari (Xbox 360, CIB)",
-   "price": "$25",
-   "img": "img/893484380294718.webp",
-   "url": "https://www.facebook.com/marketplace/item/893484380294718/"
-  },
-  {
-   "id": "1601626508013007",
-   "title": "Lost Odyssey (Xbox 360, CIB)",
-   "price": "$35",
-   "img": "img/1601626508013007.webp",
-   "url": "https://www.facebook.com/marketplace/item/1601626508013007/"
-  },
-  {
-   "id": "1629413985419657",
-   "title": "Super Donkey Kong GB (Game Boy)",
-   "price": "$40",
-   "img": "img/1629413985419657.webp",
-   "url": "https://www.facebook.com/marketplace/item/1629413985419657/"
-  },
-  {
-   "id": "1596272705628328",
-   "title": "Rare Demon Godzilla Plush, Run of 1200",
-   "price": "$1,000",
-   "img": "img/1596272705628328.webp",
-   "url": "https://www.facebook.com/marketplace/item/1596272705628328/"
-  },
-  {
-   "id": "1698580177880717",
-   "title": "Ty Classic Mothra Plush, 2001 Japan Exclusive",
-   "price": "$90",
-   "img": "img/1698580177880717.webp",
-   "url": "https://www.facebook.com/marketplace/item/1698580177880717/"
-  },
-  {
-   "id": "1457086556180987",
-   "title": "The Secret of NIMH VHS (MGM/UA)",
-   "price": "$20",
-   "img": "img/1457086556180987.webp",
-   "url": "https://www.facebook.com/marketplace/item/1457086556180987/"
   },
   {
    "id": "4491234207783643",
@@ -360,11 +269,137 @@
    "url": "https://www.facebook.com/marketplace/item/957182080182054/"
   },
   {
+   "id": "1357719516160611",
+   "title": "Universal Monsters The Mummy Figure with Stand",
+   "price": "$45",
+   "img": "img/1357719516160611.webp",
+   "url": "https://www.facebook.com/marketplace/item/1357719516160611/"
+  },
+  {
+   "id": "1692067448557871",
+   "title": "Universal Monsters The Wolfman Figure (2006)",
+   "price": "$55",
+   "img": "img/1692067448557871.webp",
+   "url": "https://www.facebook.com/marketplace/item/1692067448557871/"
+  },
+  {
+   "id": "1585993699142575",
+   "title": "Universal Monsters Frankenstein Figure with Stand",
+   "price": "$55",
+   "img": "img/1585993699142575.webp",
+   "url": "https://www.facebook.com/marketplace/item/1585993699142575/"
+  },
+  {
+   "id": "1110323075278692",
+   "title": "Carrie Imprint 4K UHD + Blu-ray Box Set",
+   "price": "$60",
+   "img": "img/1110323075278692.webp",
+   "url": "https://www.facebook.com/marketplace/item/1110323075278692/"
+  },
+  {
+   "id": "1077889391718461",
+   "title": "LEGO Sonic Knuckles & Master Emerald Shrine 76998",
+   "price": "$50",
+   "img": "img/1077889391718461.webp",
+   "url": "https://www.facebook.com/marketplace/item/1077889391718461/"
+  },
+  {
+   "id": "3975230709451781",
+   "title": "Walt Disney Presents The Great Composers Vinyl LP",
+   "price": "$18",
+   "img": "img/3975230709451781.webp",
+   "url": "https://www.facebook.com/marketplace/item/3975230709451781/"
+  },
+  {
+   "id": "1593293442260836",
+   "title": "Billy Joel The Stranger Vinyl LP",
+   "price": "$22",
+   "img": "img/1593293442260836.webp",
+   "url": "https://www.facebook.com/marketplace/item/1593293442260836/"
+  },
+  {
+   "id": "1388955000061440",
+   "title": "Pink Floyd A Saucerful of Secrets Vinyl LP",
+   "price": "$60",
+   "img": "img/1388955000061440.webp",
+   "url": "https://www.facebook.com/marketplace/item/1388955000061440/"
+  },
+  {
+   "id": "2370011950402252",
+   "title": "Nine Inch Nails The Fragile 3-LP Vinyl",
+   "price": "$80",
+   "img": "img/2370011950402252.webp",
+   "url": "https://www.facebook.com/marketplace/item/2370011950402252/"
+  },
+  {
+   "id": "1076619764998471",
+   "title": "Alice Cooper Killer Vinyl LP",
+   "price": "$16",
+   "img": "img/1076619764998471.webp",
+   "url": "https://www.facebook.com/marketplace/item/1076619764998471/"
+  },
+  {
+   "id": "1722477518845318",
+   "title": "The Black Keys Magic Potion Vinyl LP",
+   "price": "$30",
+   "img": "img/1722477518845318.webp",
+   "url": "https://www.facebook.com/marketplace/item/1722477518845318/"
+  },
+  {
+   "id": "1383112770701565",
+   "title": "Squishmallows Hello Kitty Chocolate Heart Plush",
+   "price": "$18",
+   "img": "img/1383112770701565.webp",
+   "url": "https://www.facebook.com/marketplace/item/1383112770701565/"
+  },
+  {
+   "id": "1120627817163830",
+   "title": "Squishmallows Vampire Owl & Werewolf Set",
+   "price": "$25",
+   "img": "img/1120627817163830.webp",
+   "url": "https://www.facebook.com/marketplace/item/1120627817163830/"
+  },
+  {
+   "id": "2811532029218448",
+   "title": "Halloween Skeleton Vampire Nutcracker",
+   "price": "$10",
+   "img": "img/2811532029218448.webp",
+   "url": "https://www.facebook.com/marketplace/item/2811532029218448/"
+  },
+  {
+   "id": "1566259618050399",
+   "title": "Zombieville Cup with 3D Zombie Topper",
+   "price": "$19",
+   "img": "img/1566259618050399.webp",
+   "url": "https://www.facebook.com/marketplace/item/1566259618050399/"
+  },
+  {
+   "id": "2128136818059312",
+   "title": "Toonsylvania Phil Plush with Sounds (1998)",
+   "price": "$45",
+   "img": "img/2128136818059312.webp",
+   "url": "https://www.facebook.com/marketplace/item/2128136818059312/"
+  },
+  {
+   "id": "1323662753041353",
+   "title": "Nightmare Before Christmas Sandy Claws Nutcracker",
+   "price": "$30",
+   "img": "img/1323662753041353.webp",
+   "url": "https://www.facebook.com/marketplace/item/1323662753041353/"
+  },
+  {
    "id": "4576371922687325",
    "title": "Hitman 2: Silent Assassin (PS2, CIB)",
    "price": "$20",
    "img": "img/4576371922687325.webp",
    "url": "https://www.facebook.com/marketplace/item/4576371922687325/"
+  },
+  {
+   "id": "1374316328194834",
+   "title": "Just Dance 3 Target Edition (Wii, CIB)",
+   "price": "$20",
+   "img": "img/1374316328194834.webp",
+   "url": "https://www.facebook.com/marketplace/item/1374316328194834/"
   },
   {
    "id": "1081288200966794",
@@ -395,39 +430,81 @@
    "url": "https://www.facebook.com/marketplace/item/1547075793389572/"
   },
   {
+   "id": "893484380294718",
+   "title": "Beautiful Katamari (Xbox 360, CIB)",
+   "price": "$25",
+   "img": "img/893484380294718.webp",
+   "url": "https://www.facebook.com/marketplace/item/893484380294718/"
+  },
+  {
+   "id": "1601626508013007",
+   "title": "Lost Odyssey (Xbox 360, CIB)",
+   "price": "$35",
+   "img": "img/1601626508013007.webp",
+   "url": "https://www.facebook.com/marketplace/item/1601626508013007/"
+  },
+  {
+   "id": "1629413985419657",
+   "title": "Super Donkey Kong GB (Game Boy)",
+   "price": "$40",
+   "img": "img/1629413985419657.webp",
+   "url": "https://www.facebook.com/marketplace/item/1629413985419657/"
+  },
+  {
+   "id": "1076779341392830",
+   "title": "Toy Vault Godzilla Titanosaurus Plush",
+   "price": "$150",
+   "img": "img/1076779341392830.webp",
+   "url": "https://www.facebook.com/marketplace/item/1076779341392830/"
+  },
+  {
+   "id": "1051711804239070",
+   "title": "Blue Corduroy Godzilla Plush (2007)",
+   "price": "$65",
+   "img": "img/1051711804239070.webp",
+   "url": "https://www.facebook.com/marketplace/item/1051711804239070/"
+  },
+  {
+   "id": "4537385873214960",
+   "title": "Funko Pop! Godzilla vs. Kong Mechagodzilla",
+   "price": "$15",
+   "img": "img/4537385873214960.webp",
+   "url": "https://www.facebook.com/marketplace/item/4537385873214960/"
+  },
+  {
+   "id": "1596272705628328",
+   "title": "Rare Demon Godzilla Plush, Run of 1200",
+   "price": "$1,000",
+   "img": "img/1596272705628328.webp",
+   "url": "https://www.facebook.com/marketplace/item/1596272705628328/"
+  },
+  {
+   "id": "1698580177880717",
+   "title": "Ty Classic Mothra Plush, 2001 Japan Exclusive",
+   "price": "$90",
+   "img": "img/1698580177880717.webp",
+   "url": "https://www.facebook.com/marketplace/item/1698580177880717/"
+  },
+  {
+   "id": "1457086556180987",
+   "title": "The Secret of NIMH VHS (MGM/UA)",
+   "price": "$20",
+   "img": "img/1457086556180987.webp",
+   "url": "https://www.facebook.com/marketplace/item/1457086556180987/"
+  },
+  {
+   "id": "1038361612325859",
+   "title": "Harry Potter: Quidditch World Cup (GameCube)",
+   "price": "$20",
+   "img": "img/1038361612325859.webp",
+   "url": "https://www.facebook.com/marketplace/item/1038361612325859/"
+  },
+  {
    "id": "27806170572383322",
    "title": "Custom Blue Nintendo 64 Bundle",
    "price": "$275",
    "img": "img/27806170572383322.webp",
    "url": "https://www.facebook.com/marketplace/item/27806170572383322/"
-  },
-  {
-   "id": "1802493594528326",
-   "title": "Zelda: Twilight Princess HD (Wii U, New)",
-   "price": "$190",
-   "img": "img/1802493594528326.webp",
-   "url": "https://www.facebook.com/marketplace/item/1802493594528326/"
-  },
-  {
-   "id": "1976628726379459",
-   "title": "Star Fox Zero (Wii U, New)",
-   "price": "$36",
-   "img": "img/1976628726379459.webp",
-   "url": "https://www.facebook.com/marketplace/item/1976628726379459/"
-  },
-  {
-   "id": "1016100934638434",
-   "title": "Super Smash Bros. for Wii U (Complete)",
-   "price": "$22",
-   "img": "img/1016100934638434.webp",
-   "url": "https://www.facebook.com/marketplace/item/1016100934638434/"
-  },
-  {
-   "id": "1709575190353774",
-   "title": "Final Fantasy X/X-2 HD Remaster (PS Vita)",
-   "price": "$50",
-   "img": "img/1709575190353774.webp",
-   "url": "https://www.facebook.com/marketplace/item/1709575190353774/"
   },
   {
    "id": "1120413696976574",
@@ -451,6 +528,20 @@
    "url": "https://www.facebook.com/marketplace/item/1083961834696355/"
   },
   {
+   "id": "1709575190353774",
+   "title": "Final Fantasy X/X-2 HD Remaster (PS Vita)",
+   "price": "$50",
+   "img": "img/1709575190353774.webp",
+   "url": "https://www.facebook.com/marketplace/item/1709575190353774/"
+  },
+  {
+   "id": "1016100934638434",
+   "title": "Super Smash Bros. for Wii U (Complete)",
+   "price": "$22",
+   "img": "img/1016100934638434.webp",
+   "url": "https://www.facebook.com/marketplace/item/1016100934638434/"
+  },
+  {
    "id": "2507070489811561",
    "title": "ZombiU (Wii U, Complete)",
    "price": "$18",
@@ -458,11 +549,18 @@
    "url": "https://www.facebook.com/marketplace/item/2507070489811561/"
   },
   {
-   "id": "1038361612325859",
-   "title": "Harry Potter: Quidditch World Cup (GameCube)",
-   "price": "$20",
-   "img": "img/1038361612325859.webp",
-   "url": "https://www.facebook.com/marketplace/item/1038361612325859/"
+   "id": "1976628726379459",
+   "title": "Star Fox Zero (Wii U, New)",
+   "price": "$36",
+   "img": "img/1976628726379459.webp",
+   "url": "https://www.facebook.com/marketplace/item/1976628726379459/"
+  },
+  {
+   "id": "1802493594528326",
+   "title": "Zelda: Twilight Princess HD (Wii U, New)",
+   "price": "$190",
+   "img": "img/1802493594528326.webp",
+   "url": "https://www.facebook.com/marketplace/item/1802493594528326/"
   }
  ]
 }
