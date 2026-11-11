@@ -1,28 +1,7 @@
 {
- "updated": "2026-11-06T08:47:47-06:00",
+ "updated": "2026-11-11T11:52:34-06:00",
  "source": "https://www.facebook.com/marketplace/profile/1073356418/",
  "items": [
-  {
-   "id": "1659438485779000",
-   "title": "Pokémon Black Version (Nintendo DS)",
-   "price": "$100",
-   "img": "img/1659438485779000.webp",
-   "url": "https://www.facebook.com/marketplace/item/1659438485779000/"
-  },
-  {
-   "id": "2397290277681813",
-   "title": "Pokémon Alpha Sapphire (Nintendo 3DS)",
-   "price": "$45",
-   "img": "img/2397290277681813.webp",
-   "url": "https://www.facebook.com/marketplace/item/2397290277681813/"
-  },
-  {
-   "id": "1448504187388737",
-   "title": "Pokémon Platinum Version (Nintendo DS)",
-   "price": "$100",
-   "img": "img/1448504187388737.webp",
-   "url": "https://www.facebook.com/marketplace/item/1448504187388737/"
-  },
   {
    "id": "29475217562071729",
    "title": "Pokémon HeartGold Version (Nintendo DS)",
@@ -106,6 +85,13 @@
    "price": "$48",
    "img": "img/2229422747971102.webp",
    "url": "https://www.facebook.com/marketplace/item/2229422747971102/"
+  },
+  {
+   "id": "1400017388716847",
+   "title": "New Super Mario Bros. U + New Super Luigi U (Wii U)",
+   "price": "$30",
+   "img": "img/1400017388716847.webp",
+   "url": "https://www.facebook.com/marketplace/item/1400017388716847/"
   },
   {
    "id": "4063926110576427",
@@ -577,6 +563,62 @@
    "url": "https://www.facebook.com/marketplace/item/4537385873214960/"
   },
   {
+   "id": "1848578106127737",
+   "title": "Toy Vault Godzilla Plush with Tags",
+   "price": "$65",
+   "img": "img/1848578106127737.webp",
+   "url": "https://www.facebook.com/marketplace/item/1848578106127737/"
+  },
+  {
+   "id": "2529939490850407",
+   "title": "Fujimi Chibimaru Godzilla Model Kit (Unopened)",
+   "price": "$100",
+   "img": "img/2529939490850407.webp",
+   "url": "https://www.facebook.com/marketplace/item/2529939490850407/"
+  },
+  {
+   "id": "1026492470439183",
+   "title": "Godzilla Figurine",
+   "price": "$15",
+   "img": "img/1026492470439183.webp",
+   "url": "https://www.facebook.com/marketplace/item/1026492470439183/"
+  },
+  {
+   "id": "1085083354229522",
+   "title": "Toy Vault Godzilla Battra Larva Plush",
+   "price": "$450",
+   "img": "img/1085083354229522.webp",
+   "url": "https://www.facebook.com/marketplace/item/1085083354229522/"
+  },
+  {
+   "id": "1412475004332747",
+   "title": "Dragonology Sababa Dragon (2006)",
+   "price": "$30",
+   "img": "img/1412475004332747.webp",
+   "url": "https://www.facebook.com/marketplace/item/1412475004332747/"
+  },
+  {
+   "id": "1286934700112169",
+   "title": "Toy Vault Godzilla Keizer Ghidorah Plush (2006)",
+   "price": "$275",
+   "img": "img/1286934700112169.webp",
+   "url": "https://www.facebook.com/marketplace/item/1286934700112169/"
+  },
+  {
+   "id": "4637306483082295",
+   "title": "Godzilla Baragon Plush (2002-2005)",
+   "price": "$275",
+   "img": "img/4637306483082295.webp",
+   "url": "https://www.facebook.com/marketplace/item/4637306483082295/"
+  },
+  {
+   "id": "1621188156306912",
+   "title": "Toy Vault Godzilla Mini Rodan Plush (2004)",
+   "price": "$100",
+   "img": "img/1621188156306912.webp",
+   "url": "https://www.facebook.com/marketplace/item/1621188156306912/"
+  },
+  {
    "id": "1596272705628328",
    "title": "Rare Demon Godzilla Plush, Run of 1200",
    "price": "$1,000",
@@ -584,11 +626,53 @@
    "url": "https://www.facebook.com/marketplace/item/1596272705628328/"
   },
   {
+   "id": "2000347564013181",
+   "title": "Godzilla Destoroyah Plush",
+   "price": "$375",
+   "img": "img/2000347564013181.webp",
+   "url": "https://www.facebook.com/marketplace/item/2000347564013181/"
+  },
+  {
+   "id": "1422149549775178",
+   "title": "Toy Vault Godzilla vs Mothra Battra Plush (2005)",
+   "price": "$125",
+   "img": "img/1422149549775178.webp",
+   "url": "https://www.facebook.com/marketplace/item/1422149549775178/"
+  },
+  {
+   "id": "1680708383028762",
+   "title": "Blue Multi-Headed Hydra Dragon Plush",
+   "price": "$60",
+   "img": "img/1680708383028762.webp",
+   "url": "https://www.facebook.com/marketplace/item/1680708383028762/"
+  },
+  {
    "id": "1698580177880717",
    "title": "Ty Classic Mothra Plush, 2001 Japan Exclusive",
    "price": "$90",
    "img": "img/1698580177880717.webp",
    "url": "https://www.facebook.com/marketplace/item/1698580177880717/"
+  },
+  {
+   "id": "27982849718024601",
+   "title": "Mythological Chimera Plush",
+   "price": "$50",
+   "img": "img/27982849718024601.webp",
+   "url": "https://www.facebook.com/marketplace/item/27982849718024601/"
+  },
+  {
+   "id": "950866301369177",
+   "title": "Framed Abstract Watercolor Painting",
+   "price": "$125",
+   "img": "img/950866301369177.webp",
+   "url": "https://www.facebook.com/marketplace/item/950866301369177/"
+  },
+  {
+   "id": "1007148842384182",
+   "title": "Batman Comic Book Style Wall Art",
+   "price": "$55",
+   "img": "img/1007148842384182.webp",
+   "url": "https://www.facebook.com/marketplace/item/1007148842384182/"
   },
   {
    "id": "1457086556180987",
