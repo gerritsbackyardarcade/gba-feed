@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T15:09:37-06:00",
+ "updated": "2026-11-16T08:50:05-06:00",
  "source": "https://www.facebook.com/marketplace/profile/1073356418/",
  "items": [
   {
@@ -801,6 +801,13 @@
    "url": "https://www.facebook.com/marketplace/item/1270942225005978/"
   },
   {
+   "id": "1722414775632743",
+   "title": "Half-Life (PlayStation 2, Complete)",
+   "price": "$65",
+   "img": "img/1722414775632743.webp",
+   "url": "https://www.facebook.com/marketplace/item/1722414775632743/"
+  },
+  {
    "id": "1709575190353774",
    "title": "Final Fantasy X/X-2 HD Remaster (PS Vita)",
    "price": "$50",
@@ -841,6 +848,104 @@
    "price": "$30",
    "img": "img/2456621321472678.webp",
    "url": "https://www.facebook.com/marketplace/item/2456621321472678/"
+  },
+  {
+   "id": "1052410920855311",
+   "title": "Harry Potter Interactive Mandrake Plush (Noble Collection)",
+   "price": "$40",
+   "img": "img/1052410920855311.webp",
+   "url": "https://www.facebook.com/marketplace/item/1052410920855311/"
+  },
+  {
+   "id": "2035884437032300",
+   "title": "Harry Potter Sorting Hat (New with Tags)",
+   "price": "$50",
+   "img": "img/2035884437032300.webp",
+   "url": "https://www.facebook.com/marketplace/item/2035884437032300/"
+  },
+  {
+   "id": "4484882038423161",
+   "title": "Harry Potter Lord Voldemort Wand Replica",
+   "price": "$60",
+   "img": "img/4484882038423161.webp",
+   "url": "https://www.facebook.com/marketplace/item/4484882038423161/"
+  },
+  {
+   "id": "2497360530731298",
+   "title": "Noble Collection Fawkes the Phoenix Statue",
+   "price": "$50",
+   "img": "img/2497360530731298.webp",
+   "url": "https://www.facebook.com/marketplace/item/2497360530731298/"
+  },
+  {
+   "id": "1372679978154711",
+   "title": "LEGO Harry Potter: Years 1-4 (Wii, CIB)",
+   "price": "$12",
+   "img": "img/1372679978154711.webp",
+   "url": "https://www.facebook.com/marketplace/item/1372679978154711/"
+  },
+  {
+   "id": "2079875576298711",
+   "title": "Harry Potter Honeydukes Chocolate Frog Replica",
+   "price": "$30",
+   "img": "img/2079875576298711.webp",
+   "url": "https://www.facebook.com/marketplace/item/2079875576298711/"
+  },
+  {
+   "id": "1050914480804970",
+   "title": "Harry Potter and the Goblet of Fire DVD (Sealed)",
+   "price": "$18",
+   "img": "img/1050914480804970.webp",
+   "url": "https://www.facebook.com/marketplace/item/1050914480804970/"
+  },
+  {
+   "id": "1611627060637497",
+   "title": "Vintage 1985 He-Man Fright Zone Playset (MOTU)",
+   "price": "$40",
+   "img": "img/1611627060637497.webp",
+   "url": "https://www.facebook.com/marketplace/item/1611627060637497/"
+  },
+  {
+   "id": "1035548368962149",
+   "title": "Masters of the Universe Webstor Figure",
+   "price": "$22",
+   "img": "img/1035548368962149.webp",
+   "url": "https://www.facebook.com/marketplace/item/1035548368962149/"
+  },
+  {
+   "id": "27348587064842845",
+   "title": "Harry Potter and the Sorcerer's Stone DVD",
+   "price": "$18",
+   "img": "img/27348587064842845.webp",
+   "url": "https://www.facebook.com/marketplace/item/27348587064842845/"
+  },
+  {
+   "id": "2608943182887858",
+   "title": "Harry Potter and the Prisoner of Azkaban DVD",
+   "price": "$18",
+   "img": "img/2608943182887858.webp",
+   "url": "https://www.facebook.com/marketplace/item/2608943182887858/"
+  },
+  {
+   "id": "1988541035132072",
+   "title": "Harry Potter and the Half-Blood Prince DVD",
+   "price": "$10",
+   "img": "img/1988541035132072.webp",
+   "url": "https://www.facebook.com/marketplace/item/1988541035132072/"
+  },
+  {
+   "id": "1763256788428810",
+   "title": "Harry Potter Gringotts Bank Coins in Case",
+   "price": "$35",
+   "img": "img/1763256788428810.webp",
+   "url": "https://www.facebook.com/marketplace/item/1763256788428810/"
+  },
+  {
+   "id": "1727011165002187",
+   "title": "Harry Potter Hogwarts Ceramic Mug",
+   "price": "$15",
+   "img": "img/1727011165002187.webp",
+   "url": "https://www.facebook.com/marketplace/item/1727011165002187/"
   }
  ]
 }
