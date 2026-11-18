@@ -1,11 +1,60 @@
 {
- "updated": "2026-11-16T08:50:05-06:00",
+ "updated": "2026-11-18T08:50:11-06:00",
  "source": "https://www.facebook.com/marketplace/profile/1073356418/",
  "items": [
   {
+   "id": "1674184137422556",
+   "title": "Nightmare Before Christmas Halloween Town Books Lot",
+   "price": "$20",
+   "img": "img/1674184137422556.webp",
+   "url": "https://www.facebook.com/marketplace/item/1674184137422556/"
+  },
+  {
+   "id": "1155931887016498",
+   "title": "Jada Nano Metalfigs Wonder Woman Die-Cast Figure",
+   "price": "$10",
+   "img": "img/1155931887016498.webp",
+   "url": "https://www.facebook.com/marketplace/item/1155931887016498/"
+  },
+  {
+   "id": "2124167384970876",
+   "title": "Jada Nano Metalfigs Wonder Woman Die-Cast Figure",
+   "price": "$10",
+   "img": "img/2124167384970876.webp",
+   "url": "https://www.facebook.com/marketplace/item/2124167384970876/"
+  },
+  {
+   "id": "2579410485877592",
+   "title": "Jada Nano Metalfigs Steve Trevor Die-Cast Figure",
+   "price": "$10",
+   "img": "img/2579410485877592.webp",
+   "url": "https://www.facebook.com/marketplace/item/2579410485877592/"
+  },
+  {
+   "id": "29013763344973193",
+   "title": "Jada Nano Metalfigs Wonder Woman Die-Cast Figure",
+   "price": "$10",
+   "img": "img/29013763344973193.webp",
+   "url": "https://www.facebook.com/marketplace/item/29013763344973193/"
+  },
+  {
+   "id": "1068653556197763",
+   "title": "Funko Mystery Mini Wonder Woman Figure",
+   "price": "$20",
+   "img": "img/1068653556197763.webp",
+   "url": "https://www.facebook.com/marketplace/item/1068653556197763/"
+  },
+  {
+   "id": "1353819433387313",
+   "title": "Star Wars Stormtrooper Helmet Bowl",
+   "price": "$25",
+   "img": "img/1353819433387313.webp",
+   "url": "https://www.facebook.com/marketplace/item/1353819433387313/"
+  },
+  {
    "id": "29475217562071729",
    "title": "Pokémon HeartGold Version (Nintendo DS)",
-   "price": "$150",
+   "price": "$130",
    "img": "img/29475217562071729.webp",
    "url": "https://www.facebook.com/marketplace/item/29475217562071729/"
   },
@@ -166,7 +215,7 @@
   {
    "id": "1108228565000650",
    "title": "Star Trek TNG Hamilton Plate Collection, Set of 8",
-   "price": "$145",
+   "price": "$120",
    "img": "img/1108228565000650.webp",
    "url": "https://www.facebook.com/marketplace/item/1108228565000650/"
   },
@@ -946,6 +995,41 @@
    "price": "$15",
    "img": "img/1727011165002187.webp",
    "url": "https://www.facebook.com/marketplace/item/1727011165002187/"
+  },
+  {
+   "id": "1516360290509118",
+   "title": "Harry Potter Deathly Hallows Part 1 (Xbox 360)",
+   "price": "$20",
+   "img": "img/1516360290509118.webp",
+   "url": "https://www.facebook.com/marketplace/item/1516360290509118/"
+  },
+  {
+   "id": "876172161878818",
+   "title": "He-Man and the Masters of the Universe DVD",
+   "price": "$10",
+   "img": "img/876172161878818.webp",
+   "url": "https://www.facebook.com/marketplace/item/876172161878818/"
+  },
+  {
+   "id": "3694198234052975",
+   "title": "Masters of the Universe Buzz-Off Figure",
+   "price": "$35",
+   "img": "img/3694198234052975.webp",
+   "url": "https://www.facebook.com/marketplace/item/3694198234052975/"
+  },
+  {
+   "id": "1422803589713069",
+   "title": "Masters of the Universe Man-E-Faces Figure",
+   "price": "$22",
+   "img": "img/1422803589713069.webp",
+   "url": "https://www.facebook.com/marketplace/item/1422803589713069/"
+  },
+  {
+   "id": "2494497254396436",
+   "title": "Retro Game Consoles and Collectibles",
+   "price": "$123",
+   "img": "img/2494497254396436.webp",
+   "url": "https://www.facebook.com/marketplace/item/2494497254396436/"
   }
  ]
 }
