@@ -1,40 +1,128 @@
 {
- "updated": "2026-10-28T13:30:00-05:00",
+ "updated": "2026-11-27T12:00:00-06:00",
  "source": "https://maps.google.com/?cid=16837712089546107756",
  "rating": 5.0,
- "reviews": 7,
+ "reviews": 8,
  "photos": [
   {
-   "src": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Sx4FUjW_6Ycdm5gfu9aT6VI-734n8LQeYE4qPY6i-Es9M_g3raq1WhGg0lu7q6d162wtrCD8dKXNeZyxfACgrmvzkxoD7-xW5PqeV2aYWtvY4KvKfrY_b0nSTmyuhS2QsNLssC1yavUuSG=w1200-h1200-k-no",
-   "alt": "Booth 517 shelves of games, plush and collectibles",
-   "kind": "business"
+   "src": "https://raw.githubusercontent.com/gerritsbackyardarcade/gba-feed/main/img/booth/booth-01.webp",
+   "alt": "Wide view of Booth 517: apparel, plush, figures and games on a checkerboard floor",
+   "kind": "business",
+   "w": 900,
+   "h": 900
   },
   {
-   "src": "https://lh3.googleusercontent.com/grass-cs/AABkmLc98tEWPlMRL2fBJS2YIDy2xP1zJyGXiLLCeaa3ia2A4r79i28naWRsRImvxYpaLaH7o2eng9q6KrkOsiiLs_r8k8CPBzzRsOnnrNRnynwRHOeMbSkn-ouMQY2x9Gzj_r60pMhkxDMQA3a7=w1200-h1200-k-no",
-   "alt": "Customer's clear green N64 build playing Pokemon Stadium",
-   "kind": "review",
-   "credit": "Enrique C."
+   "src": "https://raw.githubusercontent.com/gerritsbackyardarcade/gba-feed/main/img/booth/booth-02.webp",
+   "alt": "Walking into Booth 517 at Cottonwood Market",
+   "kind": "business",
+   "w": 900,
+   "h": 675
   },
   {
-   "src": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TzBlCyZG1r54zCCDGtzi_HOURhh7v4vNsn8eUbzlo3_OEZhyyujjTXtzTRgITVkSCopwyums_T5d9wJ1937JpydI6PRfI2_0YBnrRrkOKbLUalfUIZuYv-dcRmI40t-V_mBQH_l_PdH8fD=w1200-h1200-k-no",
-   "alt": "Display cases of action figures and Star Wars collectibles",
-   "kind": "business"
+   "src": "https://raw.githubusercontent.com/gerritsbackyardarcade/gba-feed/main/img/booth/booth-03.webp",
+   "alt": "Framed retro art wall above Star Wars and horror collectibles",
+   "kind": "business",
+   "w": 900,
+   "h": 900
   },
   {
-   "src": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SLBEc0N980j8B0MBpSHdcrP84LEQTPO2BaAMWeLz0TTVrkZVnc7opS1RMGCYezYkuLhxkSAUqXx2HqxreRBUEvnb-i3NnsBHelVt4B2znu3MAiwNfnZhDjKrweBN8-79J_7W-rZPBQe6I=w1200-h1200-k-no",
-   "alt": "Wide view of the booth inside Cottonwood Market",
-   "kind": "business"
+   "src": "https://raw.githubusercontent.com/gerritsbackyardarcade/gba-feed/main/img/booth/booth-04.webp",
+   "alt": "Glowing clear green custom Nintendo 64",
+   "kind": "business",
+   "w": 900,
+   "h": 676
   },
   {
-   "src": "https://lh3.googleusercontent.com/grass-cs/AABkmLefWXWDyK6eYm17wbnNnmMBIdPO_6KfkM69jO07jj5y9cO7yN0nD_wqiNyJMrIwq4uzAwuR20wuvtKFXQboqgjGTF7UXNxkfTdRD-9rqqXUEMQNAH0_4wBc4j2FEPHo72GVIdQGUNtDlbDW=w1200-h1200-k-no",
-   "alt": "Customer's custom N64 on a printed stand",
-   "kind": "review",
-   "credit": "Enrique C."
+   "src": "https://raw.githubusercontent.com/gerritsbackyardarcade/gba-feed/main/img/booth/booth-05.webp",
+   "alt": "Skateboard wall, Minecraft Creeper and shelves of games and plush",
+   "kind": "business",
+   "w": 900,
+   "h": 900
   },
   {
-   "src": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Qaw2N5dMMPR3If_-kPkkpZ8-7oFFQWsOIquLRWSdbf8vCy6jJ9ga58OMFBsuI-SlRfG0aZYm1lc-rMfDLSQ-gDqJn-YOtDs4oQu-o9-nO09y7ZF5cQ4VGoSk0CnIksD2k0DM4-nxDmF6-o=w1200-h1200-k-no",
-   "alt": "Framed retro art wall and collectibles",
-   "kind": "business"
+   "src": "https://raw.githubusercontent.com/gerritsbackyardarcade/gba-feed/main/img/booth/booth-06.webp",
+   "alt": "Purple and lime custom N64 builds in the case",
+   "kind": "business",
+   "w": 675,
+   "h": 900
+  },
+  {
+   "src": "https://raw.githubusercontent.com/gerritsbackyardarcade/gba-feed/main/img/booth/booth-07.webp",
+   "alt": "Glass cases of action figures and anime collectibles",
+   "kind": "business",
+   "w": 900,
+   "h": 900
+  },
+  {
+   "src": "https://raw.githubusercontent.com/gerritsbackyardarcade/gba-feed/main/img/booth/booth-08.webp",
+   "alt": "Mario Kart diecast and Japanese Mario games on display",
+   "kind": "business",
+   "w": 900,
+   "h": 900
+  },
+  {
+   "src": "https://raw.githubusercontent.com/gerritsbackyardarcade/gba-feed/main/img/booth/booth-09.webp",
+   "alt": "Translucent green N64 on a yellow stand",
+   "kind": "business",
+   "w": 900,
+   "h": 676
+  },
+  {
+   "src": "https://raw.githubusercontent.com/gerritsbackyardarcade/gba-feed/main/img/booth/booth-10.webp",
+   "alt": "Handheld case: Game Boy, PS Vita and Anbernic handhelds",
+   "kind": "business",
+   "w": 900,
+   "h": 900
+  },
+  {
+   "src": "https://raw.githubusercontent.com/gerritsbackyardarcade/gba-feed/main/img/booth/booth-11.webp",
+   "alt": "Stack of boxed GameCube and Game Boy Advance games",
+   "kind": "business",
+   "w": 675,
+   "h": 900
+  },
+  {
+   "src": "https://raw.githubusercontent.com/gerritsbackyardarcade/gba-feed/main/img/booth/booth-12.webp",
+   "alt": "Nightmare Before Christmas figures in front of a VHS wall",
+   "kind": "business",
+   "w": 675,
+   "h": 900
+  },
+  {
+   "src": "https://raw.githubusercontent.com/gerritsbackyardarcade/gba-feed/main/img/booth/booth-13.webp",
+   "alt": "Star Wars helmets, Halo figures and collector cases",
+   "kind": "business",
+   "w": 900,
+   "h": 900
+  },
+  {
+   "src": "https://raw.githubusercontent.com/gerritsbackyardarcade/gba-feed/main/img/booth/booth-14.webp",
+   "alt": "Yellow Sega Game Gear and boxed handheld games",
+   "kind": "business",
+   "w": 675,
+   "h": 900
+  },
+  {
+   "src": "https://raw.githubusercontent.com/gerritsbackyardarcade/gba-feed/main/img/booth/booth-15.webp",
+   "alt": "Nintendo DS handhelds: turquoise DS Lite and a red DSi XL",
+   "kind": "business",
+   "w": 900,
+   "h": 900
+  },
+  {
+   "src": "https://raw.githubusercontent.com/gerritsbackyardarcade/gba-feed/main/img/booth/booth-16.webp",
+   "alt": "Wii games and accessories in the display case",
+   "kind": "business",
+   "w": 675,
+   "h": 900
+  },
+  {
+   "src": "https://raw.githubusercontent.com/gerritsbackyardarcade/gba-feed/main/img/booth/booth-17.webp",
+   "alt": "Shelf of holiday plush, figures and DVDs",
+   "kind": "business",
+   "w": 675,
+   "h": 900
   }
- ]
+ ],
+ "note": "Photos are copied from the Google Business Profile into img/booth/ so they never expire."
 }
